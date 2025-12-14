@@ -56,10 +56,10 @@
 
         nav_num {
             bindings = <
-       &none             &kp N1  &kp N2  &kp N3  &kp LA(DELETE)    &none      &none     &none     &none      &kp LS(COLON)
-       &kp SEMI          &kp N4  &kp N5  &kp N6  &kp LA(RIGHT)     &kp N0     &kp LEFT  &kp UP    &kp RIGHT  &kp SEMI
-&none  &kp LG(UP_ARROW)  &kp N7  &kp N8  &kp N9  &kp N0            &none      &none     &kp DOWN  &none      &kp FSLH       &kp CARET
-                                 &trans  &trans  &trans            &kp EQUAL  &none     &none
+       &none             &kp N1  &kp N2  &kp N3  &kp LA(DELETE)    &none   &none     &none     &none      &kp LS(COLON)
+       &kp SEMI          &kp N4  &kp N5  &kp N6  &kp LA(RIGHT)     &kp N0  &kp LEFT  &kp UP    &kp RIGHT  &kp SEMI
+&none  &kp LG(UP_ARROW)  &kp N7  &kp N8  &kp N9  &kp N0            &none   &none     &kp DOWN  &none      &kp FSLH       &kp CARET
+                                 &trans  &trans  &trans            &trans  &none     &none
             >;
         };
 
